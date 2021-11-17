@@ -1,0 +1,2 @@
+<h1> You accessed this page by GET request</h1>
+<p> Fisrt names: {{output}}</p>
